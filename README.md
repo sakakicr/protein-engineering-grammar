@@ -11,7 +11,7 @@ Protein therapeutics are conventionally classified by structural format: monoclo
 - **Processor**: converts that decision into a physical molecular event
 - **Actuator**: produces the application-level output
 
-The manuscript also describes a Compiler formalism, a pipeline from a biological problem to a molecular architecture, and maps 154 protein engineering technologies onto the Grammar.
+The manuscript also describes a Compiler formalism, a pipeline from a biological problem to a molecular architecture, and maps protein engineering technologies onto the Grammar.
 
 ## Contents
 
