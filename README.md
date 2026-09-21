@@ -36,7 +36,7 @@ The manuscript also describes a Compiler formalism, a pipeline from a biological
 
 ## How to cite
 
-Until a Zenodo record and a journal version exist, please cite the manuscript by its title and author, with the URL of this repository. This section will be updated with a DOI.
+Until the Zenodo record exists, please cite the manuscript by its title and author, with the URL of this repository. This section will be updated with the DOI.
 
 ## Status
 
