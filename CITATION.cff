@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-message: "If you use this work, please cite it. Once a Zenodo record exists, cite that record (DOI) rather than this repository."
+message: "If you use this work, please cite it using the Zenodo record (DOI) rather than this repository."
 title: "Protein Engineering Grammar: From Molecular Formats to Programmable Medicines"
 abstract: "Protein therapeutics are conventionally classified by structural format: monoclonal, bispecific, conjugate, fusion. This scheme describes what a molecule is built from, not the functional logic it implements. We present a complementary vocabulary, the Protein Engineering Grammar, that describes an engineered protein as a modular information-processing system."
 authors:
@@ -13,6 +13,7 @@ keywords:
   - antibody engineering
   - programmable therapeutics
   - molecular logic
-version: "1.0.0"
+version: "1.0.1"
 date-released: "2026-09-21"
-# doi: add the Zenodo concept DOI once the record exists.
+# The Zenodo concept DOI always resolves to the latest version.
+doi: "10.5281/zenodo.22868586"

@@ -1,5 +1,7 @@
 # Protein Engineering Grammar
 
+[![DOI](https://zenodo.org/badge/1379141100.svg)](https://doi.org/10.5281/zenodo.22868586)
+
 **Protein Engineering Grammar: From Molecular Formats to Programmable Medicines**
 
 Koichiro Saka
@@ -36,7 +38,11 @@ The manuscript also describes a Compiler formalism, a pipeline from a biological
 
 ## How to cite
 
-Until the Zenodo record exists, please cite the manuscript by its title and author, with the URL of this repository. This section will be updated with the DOI.
+Please cite the Zenodo record. The DOI below is the concept DOI, which always resolves to the latest version:
+
+> Saka, K. (2026). *Protein Engineering Grammar: From Molecular Formats to Programmable Medicines*. Zenodo. https://doi.org/10.5281/zenodo.22868586
+
+GitHub's "Cite this repository" button uses [`CITATION.cff`](CITATION.cff).
 
 ## Status
 
