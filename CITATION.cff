@@ -14,4 +14,6 @@ keywords:
   - antibody engineering
   - programmable therapeutics
   - molecular logic
-# version, date-released, doi: fill in when the first release and its Zenodo record exist.
+version: "1.0.0"
+date-released: "2026-09-21"
+# doi: add the Zenodo concept DOI once the record exists.
