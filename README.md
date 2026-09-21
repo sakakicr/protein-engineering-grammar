@@ -18,7 +18,7 @@ The manuscript also describes a Compiler formalism, a pipeline from a biological
 | File | Description |
 |---|---|
 | [`manuscript.pdf`](manuscript.pdf) | The manuscript |
-| [`table_s1.csv`](table_s1.csv) | Table S1: the Grammar mapping of all 154 technologies, with primary references |
+| [`table_s1.csv`](table_s1.csv) | Table S1: the Grammar mapping of all registered technologies, with primary references |
 | [`CITATION.cff`](CITATION.cff) | Citation metadata |
 | [`LICENSE`](LICENSE) | CC BY 4.0 |
 
