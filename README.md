@@ -2,7 +2,7 @@
 
 **Protein Engineering Grammar: From Molecular Formats to Programmable Medicines**
 
-Koichiro Saka (Independent Researcher, Tokyo, Japan)
+Koichiro Saka
 
 Protein therapeutics are conventionally classified by structural format: monoclonal, bispecific, conjugate, fusion. This scheme describes what a molecule is built from, not the functional logic it implements. The Protein Engineering Grammar is a complementary vocabulary that describes an engineered protein as a modular information-processing system made of four primitives:
 
