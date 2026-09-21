@@ -1,0 +1,21 @@
+{
+  "title": "Protein Engineering Grammar: From Molecular Formats to Programmable Medicines",
+  "upload_type": "publication",
+  "publication_type": "other",
+  "description": "<p>Protein therapeutics are conventionally classified by structural format. This record contains the manuscript proposing the Protein Engineering Grammar, a complementary vocabulary that describes an engineered protein as a modular information-processing system, and Table S1, the Grammar mapping of 154 protein engineering technologies with their primary references.</p>",
+  "creators": [
+    {
+      "name": "Saka, Koichiro",
+      "affiliation": "Independent Researcher"
+    }
+  ],
+  "keywords": [
+    "protein engineering",
+    "protein therapeutics",
+    "antibody engineering",
+    "programmable therapeutics",
+    "molecular logic"
+  ],
+  "license": "cc-by-4.0",
+  "language": "eng"
+}
