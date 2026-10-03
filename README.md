@@ -10,8 +10,8 @@ Protein therapeutics are conventionally classified by structural format: monoclo
 
 - **Sensor**: reads a biological or chemical input
 - **Gate**: evaluates a permission condition
-- **Processor**: converts that decision into a physical molecular event
-- **Actuator**: produces the application-level output
+- **Processor**: the molecule's internal mechanism that operates the Actuator
+- **Actuator**: the molecule's effect on external factors
 
 The manuscript also describes a Compiler formalism, a pipeline from a biological problem to a molecular architecture, and maps protein engineering technologies onto the Grammar.
 
@@ -29,7 +29,7 @@ The manuscript also describes a Compiler formalism, a pipeline from a biological
 | Column | Meaning |
 |---|---|
 | `technology_id`, `technology` | Identifier and name of the technology |
-| `sensor`, `relation`, `gate`, `processor`, `actuator` | The Grammar assignment. Each value is condensed to its leading term. `relation` is the Sensor relation axis (how two or more Sensor instances combine) |
+| `sensor`, `relation`, `gate`, `processor`, `actuator` | The Grammar assignment. Each value is condensed to its leading term. `relation` is the Sensor relation axis (how two or more Sensor instances combine). When a molecule has more than one Actuator, the values of each Actuator are labelled (A), (B), and so on, and separated by semicolons; an unlabelled `sensor` or `gate` is shared by all Actuators. |
 | `evidence_status` | `evidence-backed`, `incomplete`, or `uncertain` |
 | `evidence_qualifier` | Optional short note on the depth of evidence, for example `full-text confirmed` |
 | `assignment_confidence` | `low` < `medium` < `medium-high` < `high`, or `n/a` when no assignment was attempted. When the primitives differ in confidence, the weakest level among the assigned primitives is given |
